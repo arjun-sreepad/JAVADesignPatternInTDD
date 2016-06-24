@@ -1,0 +1,4 @@
+empListThroughProxy_ProperInput_Successful=emp List: [Pankaj, Raj, David, Lisa]
+empListThroughProxy_ImproperInput_Failure=emp List: [Pankaj, Raj, David, Lisa]
+empListThroughProxy_removeEmployee_EmployeeGetsRemovedInOutput=emp List: [Pankaj, Raj, David]
+empListThroughProxy_addNewEmployee_ExtraEmployeeInOutput=emp List: [Pankaj, Raj, David, Lisa, John]

@@ -1,0 +1,5 @@
+buildComputer_ProperInput_Successful=ComputerBuilder [HDD=500 GB, RAM=2 GB, isGraphicsCardEnabled=false, isBluetoothEnabled=true]
+buildComputer_ImproperInput_Failure=ComputerBuilder [HDD=50 GB, RAM=12 GB, isGraphicsCardEnabled=false, isBluetoothEnabled=true]
+buildComputer_withoutBluetooth_ComputerWillNotHaveBluetooth=ComputerBuilder [HDD=50 GB, RAM=2 GB, isGraphicsCardEnabled=false, isBluetoothEnabled=false]
+buildComputer_with50GBRam_ComputerWillHave50GBRam=ComputerBuilder [HDD=50 GB, RAM=2 GB, isGraphicsCardEnabled=false, isBluetoothEnabled=true]
+buildComputer_withgraphicsCard_ComputerWillHaveBluetooth=ComputerBuilder [HDD=50 GB, RAM=2 GB, isGraphicsCardEnabled=true, isBluetoothEnabled=true]

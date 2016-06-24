@@ -1,0 +1,19 @@
+checkMomentoPattern_ProperInput_Successful=Current State: State #4\n\
+First saved State: State #2\n\
+Second saved State: State #3\n
+checkMomentoPattern_ImproperInput_Failure=Current State: State #4\n\
+First saved State: State #1\n\
+Second saved State: State #2\n\
+Third saved State: State #3\n
+checkMomentoPattern_saveLastThreeStates_SuccessfulRetriveLastThreeStates=Current State: State #4\n\
+First saved State: State #1\n\
+Second saved State: State #2\n\
+Third saved State: State #3\n
+checkMomentoPattern_checkOrderOfretrivedStates_OutputStatesShouldBeInExpectedOredr=Current State: State #4\n\
+First saved State: State #1\n\
+Second saved State: State #2\n\
+Third saved State: State #3\n
+checkMomentoPattern_checkIsMoreNumberOfStatesAreSaved_OutputStatesShouldCountToThree=Current State: State #4\n\
+First saved State: State #1\n\
+Second saved State: State #2\n\
+Third saved State: State #3\n

@@ -1,0 +1,31 @@
+checkCompositePattern_ProperInput_Successful=Employee :[ Name : John, dept : CEO, salary :30000 ]\n\
+Employee :[ Name : Robert, dept : Head Sales, salary :20000 ]\n\
+Employee :[ Name : Richard, dept : Sales, salary :10000 ]\n\
+Employee :[ Name : Rob, dept : Sales, salary :10000 ]\n\
+Employee :[ Name : Michel, dept : Head Marketing, salary :20000 ]\n\
+Employee :[ Name : Laura, dept : Marketing, salary :10000 ]\n\
+Employee :[ Name : Bob, dept : Marketing, salary :10000 ]\n
+checkCompositePattern_OneCEOThreeManagersEightSubordinates_OutputShouldBeAsExpected=Employee :[ Name : John, dept : CEO, salary :30000 ]\n\
+Employee :[ Name : Robert, dept : Head Sales, salary :10000 ]\n\
+Employee :[ Name : Richard, dept : Sales, salary :10000 ]\n\
+Employee :[ Name : Harry, dept : Sales, salary :20000 ]\n\
+Employee :[ Name : Peter, dept : Sales, salary :30000 ]\n\
+Employee :[ Name : Bob, dept : Sales, salary :40000 ]\n\
+Employee :[ Name : Sam, dept : Sales, salary :50000 ]\n\
+Employee :[ Name : Richard, dept : Sales, salary :60000 ]\n\
+Employee :[ Name : Andrew, dept : Sales, salary :70000 ]\n\
+Employee :[ Name : Peter, dept : Sales, salary :80000 ]\n\
+Employee :[ Name : Tom, dept : Head Sales, salary :20000 ]\n\
+Employee :[ Name : Cook, dept : Head Sales, salary :30000 ]\n
+checkCompositePattern_NoSubordinatesToManager_OutputShouldBeAsExpected=Employee :[ Name : John, dept : CEO, salary :30000 ]\n\
+Employee :[ Name : Robert, dept : Head Sales, salary :10000 ]\n\
+Employee :[ Name : Tom, dept : Head Sales, salary :20000 ]\n\
+Employee :[ Name : Cook, dept : Head Sales, salary :30000 ]\n
+checkCompositePattern_NoSubordinatesToCEO_OutputShouldBeAsExpected=Employee :[ Name : John, dept : CEO, salary :30000 ]\n
+checkCompositePattern_ImproperInput_Failure=Employee :[ Name : John, dept : CEO, salary :30000 ]\n\
+Employee :[ Name : Robert, dept : Head Sales, salary :20000 ]\n\
+Employee :[ Name : Richard, dept : Sales, salary :10000 ]\n\
+Employee :[ Name : Rob, dept : Sales, salary :10000 ]\n\
+Employee :[ Name : Michel, dept : Head Marketing, salary :20000 ]\n\
+Employee :[ Name : Laura, dept : Marketing, salary :10000 ]\n\
+Employee :[ Name : Bob, dept : Marketing, salary :10000 ]\n

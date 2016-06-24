@@ -1,0 +1,20 @@
+getNamesFromArrayThroughIterator_EmptyArray_NullOutput=
+getNamesFromArrayThroughIterator_ProperInput_Successful=Name : one\n\
+Name : two\n\
+Name : three\n\
+Name : four\n\
+Name : five\n
+getNamesFromArrayThroughIterator_ProperInput_Successful=Name : one\n\
+Name : two\n\
+Name : three\n\
+Name : four\n
+getNamesFromArrayThroughIterator_ImproperInput_Failure=Name : one\n\
+Name : two\n\
+Name : three\n\
+Name : four\n\
+Name : five\n
+getNamesFromArrayThroughIterator_FiveNames_FiveNamesInOutput=Name : one\n\
+Name : two\n\
+Name : three\n\
+Name : four\n\
+Name : five\n

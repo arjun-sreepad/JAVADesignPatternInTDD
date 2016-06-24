@@ -1,0 +1,24 @@
+buildHome_ProperInput_Successful=Building foundation with cement,iron rods and sand\n\
+Building Pillars with glass coating\n\
+Building Glass Walls\n\
+Building Glass Windows\n\
+House is built.\n
+buildHome_ImproperInput_Failure=Building foundation with cement,iron rods and sand\n\
+Building Pillars with glass coating\n\
+Building Glass Walls\n\
+House is built.\n
+buildHome_BuildGlassHome_GlassHomeToBeBuilt=Building foundation with cement,iron rods and sand\n\
+Building Pillars with glass coating\n\
+Building Glass Walls\n\
+Building Glass Windows\n\
+House is built.\n
+buildHome_BuildWoodenHome_WoodenHomeToBeBuilt=Building foundation with cement,iron rods and sand\n\
+Building Pillars with Wood coating\n\
+Building Wooden Walls\n\
+Building Glass Windows\n\
+House is built.\n
+buildHome_testOrderOfBuild_ProperOrderAsMentionedInOutput=Building foundation with cement,iron rods and sand\n\
+Building Pillars with Wood coating\n\
+Building Wooden Walls\n\
+Building Glass Windows\n\
+House is built.\n

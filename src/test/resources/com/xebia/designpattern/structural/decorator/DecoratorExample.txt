@@ -1,0 +1,6 @@
+decorator_ProperInput_Successful=Base Icecream + cruncy nuts + sweet honey
+decorator_ImproperInput_Failure=Base Icecream + cruncy nuts + sweet honey
+decorator_SimpleIceCream_BaseIceCream=Base Icecream
+decorator_SimplePlusNuttyIceCream_BasePlusCrunchyIceCream=Base Icecream + cruncy nuts
+decorator_SimplePlusHoneyIceCream_BasePlusSweetIceCream=Base Icecream + sweet honey
+decorator_SimplePlusHoneyPLusNuttyIceCream_BasePlusSweetPlusCrunchyIceCream=Base Icecream + cruncy nuts + sweet honey
